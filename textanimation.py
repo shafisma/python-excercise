@@ -1,7 +1,7 @@
 import time
 import os
 
-text = ">>> Moving Text >>>"
+text = "Hello"
 for pos in range(50):
     print(" " * pos + text) 
     time.sleep(0.02)
